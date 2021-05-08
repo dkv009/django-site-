@@ -48,7 +48,7 @@ djangocms-video==2.1.1
 djangorestframework==3.9.2
 dnspython==1.16.0
 easy-thumbnails==2.6
-eventlet==0.24.1
+eventlet==0.31.0
 fasteners==0.14.1
 greenlet==0.4.15
 html5lib==1.0.1
