@@ -78,7 +78,7 @@ oslo.log==3.43.0
 oslo.serialization==2.29.0
 oslo.utils==3.41.0
 pbr==5.2.0
-Pillow==5.4.1
+Pillow==9.0.1
 psycopg2==2.8.2
 pygame==1.9.3
 Pygments==2.3.1
