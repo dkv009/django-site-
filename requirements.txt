@@ -76,7 +76,7 @@ oslo.context==2.22.1
 oslo.i18n==3.23.1
 oslo.log==3.43.0
 oslo.serialization==2.29.0
-oslo.utils==3.41.0
+oslo.utils==4.10.1
 pbr==5.2.0
 Pillow==5.4.1
 psycopg2==2.8.2
